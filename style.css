@@ -50,7 +50,7 @@ a {
 }
 
 p {
-    color: white; /*#000*/
+    color: black; /*#000*/
 }
 
 .container {
@@ -79,7 +79,7 @@ p {
     top: 50%;
     transform: translate(-50%, -50%);
     border-radius: 10px;
-    height: 7px;
+    height: 5px;
 
     /* Spacing */
     padding: 0 0.25rem;
@@ -192,9 +192,13 @@ p {
     line-height: 32px;
 }
 
+.menu ul li a{
+    transition: 0.5s;
+}
+
 .menu ul li a:hover {
     color: #FFDB15;
-    transition: 0.5s;
+
 }
 
 .projet {
@@ -204,5 +208,6 @@ p {
     flex-wrap: wrap;
     justify-content: space-around;
     margin-left: 250px;
+    margin-right: 250px;
 }
 
