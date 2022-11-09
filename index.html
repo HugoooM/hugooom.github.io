@@ -1,66 +1,88 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-  <meta charset="UTF-8">
-  <title>Hugo Montiège</title>
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <title>Hugo Montiège</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <div class="header">
-  <div class="container">
-    <div class="navbar">
-      <div class="name">
-        <h1>Hugo Montiège</h1>
-      </div>
+    <div class="container">
+        <div class="navbar">
+            <div class="name">
+                <h1>Hugo Montiège</h1>
+            </div>
 
-      <nav>
-        <ul>
-          <li>Accueil</li>
-          <li>CV</li>
-          <li>Projets</li>
-          <li>Contact</li>
-        </ul>
-      </nav>
-    </div>
-
-
-    <div class="row">
-      <!-- left text -->
-      <div class="col-2">
-        <h1>Bienvenue</h1>
-        <h1>sur mon Portfolio</h1>
-        <h1 class="text_info" ></h1>
-        <p class="text_para" >Vous y trouverez plusieurs projets<br>Personnels ou réalisés dans le cadre de mes études.</p>
-        <a href="" class="btn" >Mon CV  &#8594</a>
-
-      </div>
-
-      <!-- end left text -->
-
-      <!-- right image -->
-      <div class="col-2">
-        <div class="avatar">
-          <img class="avatar__image" src="images/hugo.jpg" alt="My avatar">
+            <nav>
+                <ul>
+                    <li>Accueil</li>
+                    <li>CV</li>
+                    <li>Projets</li>
+                    <li>Contact</li>
+                </ul>
+            </nav>
         </div>
-
-      </div>
     </div>
-  </div>
+</div>
+
+<div class="separator">
+    <!-- Separator -->
+    <div class="separator__content"></div>
+
+    <!-- Separator line -->
+    <div class="separator__separator"></div>
+</div>
+
+<div class="header">
+    <div class="container">
+        <div class="row">
+            <!-- left text -->
+            <div class="col-2">
+                <h1>Bienvenue</h1>
+                <h1>sur mon Portfolio</h1>
+                <h1 class="text_info"></h1>
+                <p class="text_para">Vous y trouverez plusieurs projets<br>Personnels ou réalisés dans le cadre de mes
+                    études.</p>
+                <a href="" class="btn">Mon CV</a>
+
+            </div>
+
+            <!-- end left text -->
+
+            <!-- right image -->
+            <div class="col-2">
+                <div class="avatar">
+                    <img class="avatar__image" src="images/hugo.jpg" alt="My avatar">
+                </div>
+
+            </div>
+        </div>
+    </div>
 </div>
 
 <div class="menu">
-  <na>
-    <ul>
-      <li>Python</li>
-      <li>Java</li>
-      <li>Web</li>
-    </ul>
-  </na>
+    <na>
+        <ul>
+            <li><a href="#python">Python</a></li>
+            <li><a href="#java">Java</a></li>
+            <li><a href="#web">Web</a></li>
+        </ul>
+    </na>
 </div>
 
 <div class="projet">
-    <h1>Mes projets Python</h1>
+    <section id="python">
+        <h1>Mes projets Python</h1>
+    </section>
+
+    <section id="java">
+        <h1>Mes projets Java</h1>
+    </section>
+
+    <section id="web">
+        <h1>Mes projets Web</h1>
+    </section>
 </div>
 
 </body>

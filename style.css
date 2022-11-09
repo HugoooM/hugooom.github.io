@@ -1,67 +1,100 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
 
-body{
+html {
+    scroll-behavior: smooth;
+}
+
+body {
 
     font-family: 'Inter', sans-serif;
     height: 100vh;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background: #F0F0F0;/*#000*/
+    background: #F0F0F0; /*#000*/
 }
 
-.navbar
-{
+.navbar {
     display: flex;
     align-items: center;
     padding: 20px;
 }
 
-nav{
+nav {
     flex: 1;
     text-align: right;
 }
 
-nav ul{
+nav ul {
     display: inline-block;
     list-style-type: none;
 }
 
-nav ul li
-{
+nav ul li {
     display: inline-block;
     margin-right: 50px;
     color: rgb(0, 0, 0);
     font-weight: 700;
 }
 
-.name h1
-{
+.name h1 {
     display: inline-block;
     margin-right: 50px;
     color: rgb(0, 0, 0);
     font-weight: 700;
 }
 
-a{
+a {
     text-decoration: none;
-    color:rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
 }
 
-p{
-    color: white;/*#000*/
+p {
+    color: white; /*#000*/
 }
 
-.container
-{
+.container {
     max-width: 1400px;
     margin: auto;
     flex-wrap: wrap;
     justify-content: space-around;
 }
 
-.row
-{
+.separator {
+    /* Content is centered horizontally */
+    align-items: center;
+    display: flex;
+
+    /* Used to set the position of text */
+    position: relative;
+}
+
+.separator__content {
+    /* We won't see the separator line */
+    background: #FFDB15;
+
+    /* Displayed at the center of separator */
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+    height: 7px;
+
+    /* Spacing */
+    padding: 0 0.25rem;
+
+    /* Demo */
+    width: 60%;
+}
+
+.separator__separator {
+    border-bottom: 1px solid #FFDB15;
+    height: 1px;
+    width: 100%;
+}
+
+.row {
     padding-top: 9rem;
     display: flex;
     align-items: center;
@@ -69,8 +102,7 @@ p{
     justify-content: space-around;
 }
 
-.col-2
-{
+.col-2 {
     flex-basis: 50%;
     min-width: 300px;
 }
@@ -104,37 +136,45 @@ p{
 }
 
 
-.text_info
-{
+.text_info {
     font-size: 40px;
     font-weight: 200;
     color: rgb(0, 0, 0);
 }
 
-.text_para
-{
+.text_para {
     margin-top: 2rem;
     border-radius: 10px;
     color: rgb(0, 0, 0);
 }
 
-.btn
-{
+.btn {
     display: inline-block;
     background: rgb(0, 0, 0);
-    color: white;/*rgb(41,41,41)*/
+    outline: 2px solid #000000;
+    color: white; /*rgb(41,41,41)*/
     padding: 22px 29px;
     margin: 30px 0;
     border-radius: 9px;
 }
 
 .btn:hover {
-    background: #0004ff;
+    background: #FFDB15;
     color: rgb(0, 0, 0);
-    transition: 0.9s;
+    transition: 0.5s;
 }
 
-.menu{
+.btn::after {
+    content: "\2192";
+    margin-left: 3px;
+    transition: 0.3s;
+}
+
+.btn:hover::after {
+    margin-left: 10px;
+}
+
+.menu {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -142,7 +182,7 @@ p{
     margin: 30px 0;
 }
 
-.menu ul li{
+.menu ul li {
     list-style-type: none;
     display: inline-block;
     margin-right: 50px;
@@ -152,11 +192,17 @@ p{
     line-height: 32px;
 }
 
-.projet{
+.menu ul li a:hover {
+    color: #FFDB15;
+    transition: 0.5s;
+}
+
+.projet {
     padding-top: 9rem;
-    display: flex;
+    display: block;
     align-items: center;
     flex-wrap: wrap;
     justify-content: space-around;
-
+    margin-left: 250px;
 }
+
