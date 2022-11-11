@@ -20,17 +20,17 @@ body {
     padding: 20px;
 }
 
-nav {
+.navHeader {
     flex: 1;
     text-align: right;
 }
 
-nav ul {
+.navHeader ul {
     display: inline-block;
     list-style-type: none;
 }
 
-nav ul li {
+.navHeader ul li {
     display: inline-block;
     margin-right: 50px;
     color: rgb(0, 0, 0);
