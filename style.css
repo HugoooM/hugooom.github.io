@@ -11,7 +11,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background: #F0F0F0; /*#000*/
+    background: #F0F0F0;
 }
 
 .navbar {
@@ -50,7 +50,7 @@ a {
 }
 
 p {
-    color: black; /*#000*/
+    color: black;
 }
 
 .container {
@@ -70,7 +70,6 @@ p {
 }
 
 .separator__content {
-    /* We won't see the separator line */
     background: #FFDB15;
 
     /* Displayed at the center of separator */
@@ -81,10 +80,8 @@ p {
     border-radius: 10px;
     height: 5px;
 
-    /* Spacing */
     padding: 0 0.25rem;
 
-    /* Demo */
     width: 60%;
 }
 
@@ -95,7 +92,7 @@ p {
 }
 
 .row {
-    padding-top: 9rem;
+    padding-top: 0rem;
     display: flex;
     align-items: center;
     flex-wrap: wrap;
@@ -152,7 +149,7 @@ p {
     display: inline-block;
     background: rgb(0, 0, 0);
     outline: 2px solid #000000;
-    color: white; /*rgb(41,41,41)*/
+    color: white;
     padding: 22px 29px;
     margin: 30px 0;
     border-radius: 9px;
@@ -209,5 +206,29 @@ p {
     justify-content: space-around;
     margin-left: 250px;
     margin-right: 250px;
+}
+
+.projet h1{
+    font-size: 30px;
+    line-height: 32px;
+    margin: 25px 0;
+}
+
+.separator__project {
+    border-bottom: 1px solid #9d9b9b;
+    height: 1px;
+    width: 75%;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 15px;
+}
+
+.separator_language{
+    border-bottom: 2px solid #FFDB15;
+    height: 1px;
+    width: 75%;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
 }
 
