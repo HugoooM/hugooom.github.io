@@ -92,7 +92,6 @@ p {
 }
 
 .row {
-    padding-top: 0rem;
     display: flex;
     align-items: center;
     flex-wrap: wrap;
@@ -189,7 +188,7 @@ p {
     line-height: 32px;
 }
 
-.menu ul li a{
+.menu ul li a {
     transition: 0.5s;
 }
 
@@ -208,7 +207,7 @@ p {
     margin-right: 250px;
 }
 
-.projet h1{
+.projet h1 {
     font-size: 30px;
     line-height: 32px;
     margin: 25px 0;
@@ -223,7 +222,7 @@ p {
     margin-top: 15px;
 }
 
-.separator_language{
+.separator_language {
     border-bottom: 2px solid #FFDB15;
     height: 1px;
     width: 75%;
@@ -232,11 +231,11 @@ p {
     margin-top: 20px;
 }
 
-p{
+p {
     text-align: justify;
 }
 
-#logo_accrobrancherie{
+#logo_accrobrancherie {
     width: 30%;
     height: 30%;
 }
@@ -246,6 +245,11 @@ p{
     height: 40%;
 }
 
-section{
+#logoRegalade {
+    width: 30%;
+    height: 30%;
+}
+
+section {
     padding-top: 10px;
 }
