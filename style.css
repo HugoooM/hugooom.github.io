@@ -250,6 +250,11 @@ p {
     height: 30%;
 }
 
+#ndi{
+    width: 80%;
+    height: 80%;
+}
+
 section {
     padding-top: 10px;
 }
