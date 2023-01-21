@@ -258,3 +258,7 @@ p {
 section {
     padding-top: 10px;
 }
+
+.link{
+    text-decoration: underline;
+}
