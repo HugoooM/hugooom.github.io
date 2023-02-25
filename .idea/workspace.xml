@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e378e908-8f4a-425e-8940-4c013c8d712c" name="Changes" comment="Ajout de liens" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1f0352db-3a4d-470a-b32d-2a7c8da2fba6" />
+        <option name="url" value="https://github.com/hugooom/hugooom.github.io" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HH5366UniZ7kyRrdgbfamljBcs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/hugo/Documents/hugooom.github.io&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e378e908-8f4a-425e-8940-4c013c8d712c" name="Changes" comment="" />
+      <created>1667928965689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667928965689</updated>
+      <workItem from="1667928967253" duration="630000" />
+      <workItem from="1667930787403" duration="4122000" />
+      <workItem from="1667989373532" duration="322000" />
+      <workItem from="1667992353453" duration="2304000" />
+      <workItem from="1668002683076" duration="1610000" />
+      <workItem from="1668012956737" duration="3865000" />
+      <workItem from="1668080486345" duration="450000" />
+      <workItem from="1668085801346" duration="1725000" />
+      <workItem from="1668112448090" duration="3707000" />
+      <workItem from="1668163123495" duration="693000" />
+      <workItem from="1668371961860" duration="43000" />
+      <workItem from="1668419576374" duration="2279000" />
+      <workItem from="1668430277012" duration="2202000" />
+      <workItem from="1668495585600" duration="616000" />
+      <workItem from="1668598962640" duration="84000" />
+      <workItem from="1668610648457" duration="25000" />
+      <workItem from="1669024038159" duration="1574000" />
+      <workItem from="1669034139404" duration="2527000" />
+      <workItem from="1669123847838" duration="2633000" />
+      <workItem from="1669136392955" duration="1118000" />
+      <workItem from="1669137536338" duration="369000" />
+      <workItem from="1669213910510" duration="126000" />
+      <workItem from="1669224278527" duration="49000" />
+      <workItem from="1669625738147" duration="1121000" />
+      <workItem from="1669947741572" duration="998000" />
+      <workItem from="1669949078498" duration="1433000" />
+      <workItem from="1670945728598" duration="120000" />
+      <workItem from="1674250071775" duration="1157000" />
+      <workItem from="1674251328183" duration="21000" />
+      <workItem from="1674251624753" duration="16000" />
+      <workItem from="1674284206946" duration="15000" />
+      <workItem from="1674290112772" duration="162000" />
+      <workItem from="1674296698967" duration="678000" />
+      <workItem from="1674298705264" duration="391000" />
+      <workItem from="1674408312438" duration="2004000" />
+      <workItem from="1674410720290" duration="184000" />
+      <workItem from="1674463447854" duration="924000" />
+      <workItem from="1674469989176" duration="39000" />
+      <workItem from="1674497763748" duration="60000" />
+      <workItem from="1674642225596" duration="27000" />
+      <workItem from="1675109155305" duration="841000" />
+      <workItem from="1675158816783" duration="246000" />
+      <workItem from="1675180920580" duration="1325000" />
+      <workItem from="1675247251714" duration="109000" />
+      <workItem from="1677332185051" duration="421000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1667929070387</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667929070387</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1667930890423</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667930890423</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Début de l'index">
+      <created>1667939736930</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667939736930</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Ajout de la liste des langages">
+      <created>1667992949388</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667992949388</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Ajout photo">
+      <created>1667993053863</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667993053863</updated>
+    </task>
+    <task id="LOCAL-00006" summary=".">
+      <created>1667994641196</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667994641196</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ajout du séparateur, des catégories de projet et d'un peu de couleur">
+      <created>1668014016361</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668014016361</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Ajout du CV et du projet PNR">
+      <created>1668016548272</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668016548272</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Description projet bdd python">
+      <created>1668086222564</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668086222564</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Ajout de :Description projet bdd python, portolio, footer">
+      <created>1668089736763</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668089736763</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Ajout des textes des projets de traitements d'image, marienbad et wordpress">
+      <created>1668115298390</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668115298390</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Modification de la taille des titres des projets">
+      <created>1668116028025</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1668116028025</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Correction d'une faute d'orthographe">
+      <created>1668163227412</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1668163227412</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Correction d'une faute d'orthographe">
+      <created>1668371995898</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1668371995898</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Ajout de la page de contact">
+      <created>1668420473232</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1668420473232</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Ajout de mon linkedin">
+      <created>1668495900102</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1668495900102</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Ajout de la page cv">
+      <created>1669024501292</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1669024501292</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Mise à jour du CV">
+      <created>1669024837459</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1669024837459</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Correction des menus">
+      <created>1669025168257</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1669025168257</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Ajout de l'iut et du lycée">
+      <created>1669036629339</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1669036629339</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Ajout d'une expérience pro">
+      <created>1669125845189</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1669125845189</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Ajout d'une expérience bénévole">
+      <created>1669137498719</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1669137498719</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Centrer les images">
+      <created>1669137863539</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1669137863539</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Texte cliquable">
+      <created>1669214025750</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1669214025750</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Ajout du projet de la nuit de l'info 2022">
+      <created>1674251218980</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1674251218980</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Ajout lien github">
+      <created>1674297241953</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1674297241953</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Ajout lien Marienbad">
+      <created>1674298863918</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1674298863918</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Ajout projet Balabox">
+      <created>1674410567436</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1674410567436</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Ajout des liens">
+      <created>1674410758684</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1674410758684</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Mise à jour de la description des projets">
+      <created>1674463520968</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1674463520968</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Modification des logos">
+      <created>1674468899249</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1674468899249</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Modif moyen de contact">
+      <created>1674497799662</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1674497799662</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Alternances textes et images des projets et des expériences pro">
+      <created>1675109534810</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1675109534810</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Ajout de mon Gitlab">
+      <created>1675109991723</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1675109991724</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Ajout d'un séparateur">
+      <created>1675158880823</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1675158880823</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Ajout de liens">
+      <created>1675183493229</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1675183493229</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ajout des textes des projets de traitements d'image, marienbad et wordpress" />
+    <MESSAGE value="Modification de la taille des titres des projets" />
+    <MESSAGE value="Correction d'une faute d'orthographe" />
+    <MESSAGE value="Ajout de la page de contact" />
+    <MESSAGE value="Ajout de mon linkedin" />
+    <MESSAGE value="Ajout de la page cv" />
+    <MESSAGE value="Mise à jour du CV" />
+    <MESSAGE value="Correction des menus" />
+    <MESSAGE value="Ajout de l'iut et du lycée" />
+    <MESSAGE value="Ajout d'une expérience pro" />
+    <MESSAGE value="Ajout d'une expérience bénévole" />
+    <MESSAGE value="Centrer les images" />
+    <MESSAGE value="Texte cliquable" />
+    <MESSAGE value="Ajout du projet de la nuit de l'info 2022" />
+    <MESSAGE value="Ajout lien github" />
+    <MESSAGE value="Ajout lien Marienbad" />
+    <MESSAGE value="Ajout projet Balabox" />
+    <MESSAGE value="Ajout des liens" />
+    <MESSAGE value="Mise à jour de la description des projets" />
+    <MESSAGE value="Modification des logos" />
+    <MESSAGE value="Modif moyen de contact" />
+    <MESSAGE value="Alternances textes et images des projets et des expériences pro" />
+    <MESSAGE value="Ajout de mon Gitlab" />
+    <MESSAGE value="Ajout d'un séparateur" />
+    <MESSAGE value="Ajout de liens" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout de liens" />
+  </component>
+</project>
