@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e378e908-8f4a-425e-8940-4c013c8d712c" name="Changes" comment="Ajout de liens" />
+    <list default="true" id="e378e908-8f4a-425e-8940-4c013c8d712c" name="Changes" comment="Ajout de liens">
+      <change afterPath="$PROJECT_DIR$/apps.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,6 +112,8 @@
       <workItem from="1675180920580" duration="1325000" />
       <workItem from="1675247251714" duration="109000" />
       <workItem from="1677332185051" duration="421000" />
+      <workItem from="1678088364532" duration="2742000" />
+      <workItem from="1678091255415" duration="5711000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1667929070387</created>
