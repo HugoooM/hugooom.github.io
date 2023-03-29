@@ -311,6 +311,13 @@ section {
     display: inline-block;
 }
 
+.logo_todo{
+    width: 100px;
+    margin-left: 5px;
+    margin-top: 5px;
+    display: inline-block;
+}
+
 .row_app {
     display: inline-block;
     max-width: 100%;
