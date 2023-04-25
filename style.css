@@ -340,3 +340,100 @@ section {
     margin-left: 5px;
     margin-right: 5px;
 }
+
+.tools-grid {
+    margin-top: 10%;
+    margin-bottom: 10%;
+    position: relative;
+    width: 80%;
+    display: grid;
+    align-items: center;
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+    grid-template-columns: repeat(auto-fill, 120px);
+    gap: 10vw;
+}
+
+.tools-grid img {
+    display: flex;
+    width: 100%;
+    height: auto;
+    transition: transform 0.25s ease-in;
+    z-index: 1;
+}
+
+.tools-grid :hover {
+    transform: scale(1.1);
+    transition: transform 0.25s ease-out;
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+
+.texte {
+    position: absolute;
+    bottom: -50px;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0;
+    transition: all 0.3s ease-in-out;
+    font-weight: bold;
+}
+
+.image-container:hover .texte {
+    bottom: -40px;
+    opacity: 1;
+}
+
+.image-container:hover img {
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+#logo_python{
+    width: 75%;
+    height: 75%;
+}
+
+#logo_java{
+    width: 115%;
+    height: 115%;
+}
+
+#logo_sqlite{
+    width: 130%;
+    height: 130%;
+}
+
+#logo_oraclesql{
+    width: 170%;
+    height: 170%;
+}
+
+#logo_mongodb{
+    width: 200%;
+    height: 200%;
+}
+
+#logo_uml{
+    width: 130%;
+    height: 130%;
+}
+
+#logo_git{
+    width: 90%;
+    height: 90%;
+}
+
+#logo_linux{
+    width: 110%;
+    height: 110%;
+}
+
+#logo_office{
+    width: 150%;
+    height: 150%;
+}
