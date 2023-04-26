@@ -115,6 +115,10 @@ p {
     color: rgb(0, 0, 0);
 }
 
+iframe{
+    margin: 10%;
+}
+
 .avatar {
     /* Center the content */
     align-items: center;
@@ -240,6 +244,11 @@ p {
     height: 30%;
 }
 
+#logo_navalgroup{
+    width: 60%;
+    height: 60%;
+}
+
 #logo_iut {
     width: 40%;
     height: 40%;
@@ -351,17 +360,16 @@ section {
     text-align: center;
     justify-items: center;
     justify-content: center;
-    grid-template-columns: repeat(auto-fill, 120px);
-    gap: 10vw;
-}
-
-.tools-grid img {
     display: flex;
     width: 100%;
     height: auto;
     transition: transform 0.25s ease-in;
     z-index: 1;
+    grid-template-columns: repeat(3, 2fr);
+    gap: 100px;
+
 }
+
 
 .tools-grid :hover {
     transform: scale(1.1);
@@ -393,24 +401,25 @@ section {
     transition: transform 0.3s ease-in-out;
 }
 
-#logo_python{
-    width: 75%;
-    height: 75%;
+.img-competences{
+    max-width: 100px;
+    max-height: 100px;
 }
 
 #logo_java{
-    width: 115%;
-    height: 115%;
+    width: 200%;
+    height: 200%;
 }
 
+
 #logo_sqlite{
-    width: 130%;
-    height: 130%;
+    width: 200%;
+    height: 200%;
 }
 
 #logo_oraclesql{
-    width: 170%;
-    height: 170%;
+    width: 200%;
+    height: 200%;
 }
 
 #logo_mongodb{
@@ -418,22 +427,3 @@ section {
     height: 200%;
 }
 
-#logo_uml{
-    width: 130%;
-    height: 130%;
-}
-
-#logo_git{
-    width: 90%;
-    height: 90%;
-}
-
-#logo_linux{
-    width: 110%;
-    height: 110%;
-}
-
-#logo_office{
-    width: 150%;
-    height: 150%;
-}
