@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e378e908-8f4a-425e-8940-4c013c8d712c" name="Changes" comment="Correction d'une faute de frappe">
+    <list default="true" id="e378e908-8f4a-425e-8940-4c013c8d712c" name="Changes" comment="Remove Warning">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/competences.html" beforeDir="false" afterPath="$PROJECT_DIR$/competences.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +32,9 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/cv.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -43,24 +46,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/hugo/Documents/Divers/hugooom.github.io",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/hugo/Documents/Divers/hugooom.github.io&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -125,6 +129,17 @@
       <workItem from="1694676792425" duration="135000" />
       <workItem from="1695125783979" duration="26000" />
       <workItem from="1698137147431" duration="1355000" />
+      <workItem from="1699968517519" duration="673000" />
+      <workItem from="1700136754565" duration="136000" />
+      <workItem from="1700996648409" duration="16000" />
+      <workItem from="1701097650209" duration="129000" />
+      <workItem from="1701114121126" duration="13000" />
+      <workItem from="1701941001984" duration="59000" />
+      <workItem from="1703249063981" duration="15000" />
+      <workItem from="1705572208877" duration="1679000" />
+      <workItem from="1705573966297" duration="6000" />
+      <workItem from="1706007688278" duration="244000" />
+      <workItem from="1706010467974" duration="950000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1667929070387</created>
@@ -410,7 +425,63 @@
       <option name="project" value="LOCAL" />
       <updated>1694676887027</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Màj CV">
+      <option name="closed" value="true" />
+      <created>1699968582827</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1699968582827</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Màj CV">
+      <option name="closed" value="true" />
+      <created>1700996657516</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1700996657516</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Màj CV">
+      <option name="closed" value="true" />
+      <created>1701097678763</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1701097678763</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Màj Contact">
+      <option name="closed" value="true" />
+      <created>1701941056709</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1701941056709</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Ajout C">
+      <option name="closed" value="true" />
+      <created>1705572426417</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1705572426417</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Ajout Neqo (stage fin de licence)">
+      <option name="closed" value="true" />
+      <created>1705573352248</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1705573352248</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Remove Warning">
+      <option name="closed" value="true" />
+      <created>1705573819055</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1705573819055</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -428,11 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Ajout de mon linkedin" />
-    <MESSAGE value="Ajout de la page cv" />
-    <MESSAGE value="Mise à jour du CV" />
-    <MESSAGE value="Correction des menus" />
-    <MESSAGE value="Ajout de l'iut et du lycée" />
     <MESSAGE value="Ajout d'une expérience pro" />
     <MESSAGE value="Ajout d'une expérience bénévole" />
     <MESSAGE value="Centrer les images" />
@@ -453,6 +519,11 @@
     <MESSAGE value="Ajout du logo de l'université" />
     <MESSAGE value="MAJ CV" />
     <MESSAGE value="Correction d'une faute de frappe" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correction d'une faute de frappe" />
+    <MESSAGE value="Màj CV" />
+    <MESSAGE value="Màj Contact" />
+    <MESSAGE value="Ajout C" />
+    <MESSAGE value="Ajout Neqo (stage fin de licence)" />
+    <MESSAGE value="Remove Warning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove Warning" />
   </component>
 </project>
